@@ -2,10 +2,10 @@
 ## Case Study context
 _A casual dining restaurant chain wants to understand tipping behavior to ensure fair compensation for servers. The company wants to understand whether customer smoking status and time of visit affect tipping behavior and further influences server compensation. Management suspects that factors such as smoking status and time of visit may influence tip amounts._
 
-#### 1. Objective : 
+## 1. Objective : 
 Evaluate whether tipping behavior differs between smokers and non-smokers, and whether this difference changes by time of day, after normalizing for bill size.
 
-## 2. Source:
+### 2. Source:
 The analysis uses a publicly available dataset containing restaurant bills, tip amounts, smoking status, and time of visit.
 _Tips dataset originally compiled by Bryant & Smith, made available via the `seaborn` Python library._
 
