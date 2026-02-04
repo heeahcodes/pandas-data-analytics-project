@@ -2,6 +2,9 @@
 
 Objective : Evaluate whether tipping behavior differs between smokers and non-smokers, and whether this difference changes by time of day, after normalizing for bill size.
 
+##Source:
+Tips dataset originally compiled by Bryant & Smith, made available via the `seaborn` Python library.
+
 #### Why use a normalized figure?
 Raw tip amounts are influenced by bill size. To ensure a fair comparison between groups, tips were normalized by total bill amount to compute tip percentage.
 
