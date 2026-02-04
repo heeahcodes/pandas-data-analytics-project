@@ -7,7 +7,7 @@ Evaluate whether tipping behavior differs between smokers and non-smokers, and w
 
 ### 2. Source:
 The analysis uses a publicly available dataset containing restaurant bills, tip amounts, smoking status, and time of visit.
-_Tips dataset originally compiled by Bryant & Smith, made available via the `seaborn` Python library._
+_Tips dataset has been originally compiled by Bryant & Smith and made available via the `seaborn` Python library._ 
 
 ### 3. Methodology :
 i. Created a normalized tip metric (tip as a percentage of total bill)
@@ -29,3 +29,5 @@ iv. Differences were small overall
 
 ### 5. Interpretation
 The results suggest that smokers on average tipped 0.39 percentage points more than non-smokers. When segmented by time of day, smokers tipped slightly more during lunch but slightly less during dinner. The differences were small, suggesting smoking status alone is not a strong predictor of tipping behavior. While the time of visit appears to have a greater influence, and observed differences may not be practically significant.
+### 6. Reccomendations 
+Management should avoid using smoking status as a basis for staffing or compensation decisions. Instead, further analysis could focus on time-based patterns or table turnover during peak hours.
